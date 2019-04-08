@@ -1,0 +1,5 @@
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+*.html
+.DS_Store
